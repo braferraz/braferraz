@@ -1,7 +1,7 @@
  # <a href="https://www.linkedin.com/in/braian-ferraz/">Braian Ferraz</a>
  
 ## About Me
-Sou desenvolvedor formado em Análise e desenvolvimento de sistemas pela UNINOVE.
+Desenvolvedor formado em Análise e desenvolvimento de sistemas pela UNINOVE.
 <br>
 
 ## Technologies

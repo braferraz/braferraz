@@ -18,4 +18,3 @@ Desenvolvedor formado em Análise e desenvolvimento de sistemas pela UNINOVE.
 ##  Contact Me
 - <a href="https://www.linkedin.com/in/braian-ferraz/">Linkedin</a>
 - <a href="mailto:braferraz26@gmail.com">E-mail</a>
-- <a href="https://www.instagram.com/braian.ferraz/">Instagram Pessoal</a>

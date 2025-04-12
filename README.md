@@ -12,7 +12,7 @@ Sou desenvolvedor formado em Análise e desenvolvimento de sistemas pela UNINOVE
 
 **Languages and Tools:**  
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,spring,php)](https://skillicons.dev)
 
 
 ##  Contact Me
